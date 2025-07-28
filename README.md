@@ -14,4 +14,4 @@
 </ul>
 <p> See the credits in game! </p>
 
-The mod is discontinued. Visit [Lovec]{https://github.com/HuanXefh/Lovecraftian-Library} instead.
+The mod is discontinued. Visit [Lovec](https://github.com/HuanXefh/Lovecraftian-Library) instead.
