@@ -13,3 +13,5 @@
   <li> Crops that can be harvested. </li>
 </ul>
 <p> See the credits in game! </p>
+
+The mod is discontinued. Visit [Lovec]{https://github.com/HuanXefh/Lovecraftian-Library} instead.
